@@ -1,0 +1,9 @@
+---
+title: "SURF Intro"
+editor: visual
+---
+## Project Name
+Survival Analysis in Poisoning
+
+## Objections
+Survival Analysis is an important branch in statistics, it analyze the expected duration of time until one event occurs. Survival analysis has widely been used in biostatistics, reliability and modeling, for various subjects and different types of data, especially in cancer-related study. The aim of this study was to investigate the clinical value of initial plasma diquat concentration in guiding the selection of extracorporeal blood purification regimens and gastric lavage.

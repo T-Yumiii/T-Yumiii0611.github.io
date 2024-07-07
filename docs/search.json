@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Name: Yumeng.Tian\nE-mail address: Yumeng.Tian21@student.xjtlu.edu.cn\nContact number: + 86 15850018060"
+  },
+  {
+    "objectID": "index.html#personal-information",
+    "href": "index.html#personal-information",
+    "title": "Home",
+    "section": "",
+    "text": "Name: Yumeng.Tian\nE-mail address: Yumeng.Tian21@student.xjtlu.edu.cn\nContact number: + 86 15850018060"
+  },
+  {
+    "objectID": "index.html#educational-background",
+    "href": "index.html#educational-background",
+    "title": "Home",
+    "section": "Educational Background",
+    "text": "Educational Background\nXJTLU & University of Liverpool, UK\nMajor:\nMathematics and Applied Mathematics\nMajor courses:\nProbability and statistics; Numerical analysis; PDE; ODE; Java; Dynamic modeling; Calculus; Linear algebra; Abstract algebra, etc\nScholarship:\n·21-22 Academic Scholarship “University Academic Excellence Award”\n·22–23 Academic Scholarship “University Academic Achievement Award”\n·22-23 “Merit Student” at XJTLU"
+  },
+  {
+    "objectID": "index.html#workplace-experience",
+    "href": "index.html#workplace-experience",
+    "title": "Home",
+    "section": "Workplace Experience",
+    "text": "Workplace Experience\n\nNew Oriental Educational & Technology Group January 2024-March 2024\nQuality Intelligence Department / Intern Head Teacher\n·Answer questions and correct homework according to the teaching content\n·Track and feedback students’ phased learning effect\n\n\nHuatai United Securities June 2023-September 2023\nInvestment Banking Business Line / Jiangsu Business Department / Jiangsu Group 2 / Intern\n·Participated in the “Xidian Xineng IPO” project, carried out enterprise inventory, bank statement verification, letter processing, manuscript update and sorting\n·Use Microsoft Excel to check and analyze the bank flow data of enterprises and individuals\n·The final issuer was successfully registered in November 2023\n\n\nXJTLU ILEAD June 2022-September 2022\nIntroduction of Wisdom Training / Teaching Assistant\n·Prepare materials for lecturers and confirm training arrangements\n·Collect, analyze and report training data\n·Lead participating teachers to complete ice-breaking and campus visits"
+  },
+  {
+    "objectID": "index.html#project-experience",
+    "href": "index.html#project-experience",
+    "title": "Home",
+    "section": "Project Experience",
+    "text": "Project Experience\n\nPWC - “Battle 24H” Business Competition March 2023\n·Provide a business case analysis including background, solution strategy, impact and other aspects through two-person cooperation\n·Mainly responsible for the preliminary overall framework and the solutions of this case analysis"
+  },
+  {
+    "objectID": "index.html#school-experience",
+    "href": "index.html#school-experience",
+    "title": "Home",
+    "section": "School Experience",
+    "text": "School Experience\n\nAdministrative Class League Branch Secretary September 2022-Present\n·Responsible for the daily management and construction of the class, assist the monitor and DA to organize class activities\n·Complete the basic work, ensure the implementation of decision-making, and promote teaching\n\n\nXJTLU Student News Centre March 2022-March 2023\nMember of the Vision Department\n·Responsible for planning, shooting, post-processing, tweet beautification and pictures; master basic shooting, editing and tweet production skills\n\n\n“ALMA” International Volunteer Team October 2021-October 2022\nMinister of the Secretary Department\n·Responsible for financial management and activity material purchase; site negotiation and classroom platform reservation; record the daily activities of the community; assign work tasks for members"
+  },
+  {
+    "objectID": "index.html#personal-skills",
+    "href": "index.html#personal-skills",
+    "title": "Home",
+    "section": "Personal Skills",
+    "text": "Personal Skills\n\nComputer skills: Microsoft Office; Matlab; Latex\n\nLanguage level: English; Spanish"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "SURF Intro",
+    "section": "",
+    "text": "Survival Analysis in Poisoning"
+  },
+  {
+    "objectID": "projects.html#name",
+    "href": "projects.html#name",
+    "title": "SURF Intro",
+    "section": "",
+    "text": "Survival Analysis in Poisoning"
+  },
+  {
+    "objectID": "projects.html#objections",
+    "href": "projects.html#objections",
+    "title": "SURF Intro",
+    "section": "Objections",
+    "text": "Objections\nSurvival Analysis is an important branch in statistics, it analyze the expected duration of time until one event occurs. Survival analysis has widely been used in biostatistics, reliability and modeling, for various subjects and different types of data, especially in cancer-related study. The aim of this study was to investigate the clinical value of initial plasma diquat concentration in guiding the selection of extracorporeal blood purification regimens and gastric lavage."
+  },
+  {
+    "objectID": "projects.html#project-name",
+    "href": "projects.html#project-name",
+    "title": "SURF Intro",
+    "section": "",
+    "text": "Survival Analysis in Poisoning"
+  }
+]
